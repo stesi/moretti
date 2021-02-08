@@ -2,3 +2,8 @@
 	path = OCA/report-print-send
 	url = git@github.com:OCA/report-print-send.git
 	branch = 14.0
+
+[submodule "stesi/printer_zpl2"]
+	path = stesi/printer_zpl2
+	url = git@github.com:stesi/printer_zpl2.git
+	branch = main
